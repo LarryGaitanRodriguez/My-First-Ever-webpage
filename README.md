@@ -16,10 +16,10 @@ this page.
 
 ### With Hindsight...
 My first page is not perfect. I don't even believe I correctly put to use bootstrap's grid system as its missing the 
-' class="row" ' and it didn't really need to be responsive. If I could create this again, I would probably do it without 
+` class="row" ` and it didn't really need to be responsive. If I could create this again, I would probably do it without 
 bootstrap so I could gain more practice with pure CSS.
 
-I also used a lot of inline ' style="" '. I believe it was poor execution because I had a separate CSS file where I could
+I also used a lot of inline ` style="" `. I believe it was poor execution because I had a separate CSS file where I could
 have created classes with common properties. I	
     
 Despite the flaws, I was excited at the time on how it came out, and I'm still proud to this day I manage to create 
