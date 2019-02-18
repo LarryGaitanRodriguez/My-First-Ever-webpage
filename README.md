@@ -7,7 +7,7 @@ the time I chose President Obama.
 ### What is it made of
 The project was meant to put to use learned HTML, CSS, and bootstrap into a single page. The level of HTML and CSS used is 
 basic. Bootstrap was used to create the layout of the website. 
-I created this page on [codepen] (https://codepen.io/larrygg/pen/pwLdBb#) following the project's requirements. 
+I created this page on [codepen](https://codepen.io/larrygg/pen/pwLdBb#) following the project's requirements. 
 
 ### What did I learn?
 I put together my previous and new knowledge of HTML, CSS, and Bootstrap to create a simple page. Before that, I was struggling 
